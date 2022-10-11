@@ -53,3 +53,11 @@
  - [Satisfaction Guaranteed: Develop Customer Loyalty Online](https://www.coursera.org/account/accomplishments/certificate/4B6VA8W5THN6)
  
 [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/9KQ9VLREB8B3)
+
+ - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/LVXNS4FX7GUL)
+ - [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/certificate/HSV9VUTLHAEE)
+ - [Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/certificate/JY2KGAF7LGXQ)
+ - [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/SDATSKBEVYFL)
+ - [Assess for Success: Marketing Analytics and Measurement](https://www.coursera.org/account/accomplishments/certificate/5QKW8DRFG7Y6)
+ - [Building Deep Learning Models with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/K9EGRN4NK3BJ)
+ - [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/NQ6JTUBKUSWR)
