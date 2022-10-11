@@ -62,7 +62,25 @@
  - [Seguridad en la red](https://www.coursera.org/account/accomplishments/certificate/T6P9XSRGXP4Y)
 
 
- [Google Cloud - Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
+[Universidad de Palermo - Administración de Empresas​](https://www.coursera.org/account/accomplishments/specialization/ZRTGZ7XZQQSF)
+ 
+ - [Economía y Finanzas de Empresas](https://www.coursera.org/account/accomplishments/certificate/YA6D7MU3P8VQ)
+ - [Fundamentos del Marketing](https://www.coursera.org/account/accomplishments/certificate/85DT3D64CSF2)
+ - [Contabilidad como Herramienta Gerencial](https://www.coursera.org/account/accomplishments/certificate/9NXGDYYQSD2B)
+ - [Fundamentos del Management](https://www.coursera.org/account/accomplishments/certificate/J6FDZ5TTT3QY)
+ - [Administración de Recursos Humanos](https://www.coursera.org/account/accomplishments/certificate/RF3Z8Y6W6PE3)
+
+
+[IBM - Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/Z65ADZFLNTXS)
+ 
+ - [Statistics for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/LSUHRWNJA8E3)
+ - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/NLEWTRL9DJ4C)
+ - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/V4RRZX8ZYNEV)
+ - [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/NAZZRSXLLZD7)
+ - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/SY9BUMGG96V5)
+
+
+[Google Cloud - Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
  
  - [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/account/accomplishments/certificate/5Q5RTSC3ZZLK)
  - [Using Machine Learning in Trading and Finance](https://www.coursera.org/account/accomplishments/certificate/ZFYFNEKUVMZ3)
@@ -197,7 +215,19 @@
  - [Responsive Web Design in Adobe XD](https://www.coursera.org/account/accomplishments/certificate/NJ7YY3MLLYYB)
 
 
- [Meta Social Media Marketing](https://www.coursera.org/account/accomplishments/professional-cert/FJK2K9DGQE4A)
+[Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/BK8B7YJ35RTN)
+
+ - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/SZAQFDDF78J5)
+ - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/R3E3Q5TD7E4C)
+ - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/certificate/S6PMGUB4J9TP)
+ - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/TNUY7Q892RW5)
+ - [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/9YM6QDGUL6PJ)
+ - [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/9B4Y3CDEPQLL)
+ - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/VMSJCGSHSVXP)
+ - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/TJYWR3CBAUXS)
+
+
+[Meta Social Media Marketing](https://www.coursera.org/account/accomplishments/professional-cert/FJK2K9DGQE4A)
 
  - [Social Media Management](https://www.coursera.org/account/accomplishments/certificate/VAM8QHURPP4L)
  - [Measure and Optimize Social Media Marketing Campaigns](https://www.coursera.org/account/accomplishments/certificate/ML4JXDKVMMND)
@@ -284,6 +314,15 @@
  - [Address Business Issues with Data Science](https://www.coursera.org/account/accomplishments/certificate/8Z6F7S6NGCFY)
 
 
+ [Representante de desarrollo de ventas de Salesforce](https://www.coursera.org/account/accomplishments/professional-cert/5WU7Y5LZ3FZ3)
+
+ - [Manual de estrategias de ventas por conversación para SDR](https://www.coursera.org/account/accomplishments/certificate/7B8CUKUWBTNT)
+ - [Impulsa la productividad mediante la pila de tecnología](https://www.coursera.org/account/accomplishments/certificate/QW5XMN3W32PA)
+ - [Fundamentos para entrevistar con confianza](https://www.coursera.org/account/accomplishments/certificate/P3P88H5BB4EK)
+ - [Bases para el éxito en el desarrollo de ventas](https://www.coursera.org/account/accomplishments/certificate/3L7LFKRXFRFN)
+ - [Guía práctica para gestionar las relaciones profesionales](https://www.coursera.org/account/accomplishments/certificate/7BQR89CWW7UR)
+
+
  [SAS Statistical Business Analyst](https://www.coursera.org/account/accomplishments/professional-cert/LP9EC42CPFFX)
 
  - [Introduction to Statistical Analysis: Hypothesis Testing](https://www.coursera.org/account/accomplishments/certificate/LNQJ9CTS89WY)
@@ -311,3 +350,19 @@
  - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/LVXNS4FX7GUL)
  - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/EFZVQFKZWV67)
  - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/2FPL6FVANSQW)
+
+
+ [IBM Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/professional-cert/DUA3BG8UJZYM)
+
+ - [Penetration Testing, Incident Response and Forensics](https://www.coursera.org/account/accomplishments/certificate/W2SJJU5C9SZV)
+ - [Cyber Threat Intelligence](https://www.coursera.org/account/accomplishments/certificate/A7W2ABKL79S8)
+ - [Network Security & Database Vulnerabilities](https://www.coursera.org/account/accomplishments/certificate/FGL9376ZUF9Y)
+ - [IBM Cybersecurity Analyst Assessment](https://www.coursera.org/account/accomplishments/certificate/CYZWEA9X8PXV)
+ - [Cybersecurity Roles, Processes & Operating System Security](https://www.coursera.org/account/accomplishments/certificate/S4K48RU76V53)
+ - [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/account/accomplishments/certificate/N59ZSGH7JSKH)
+ - [Cybersecurity Compliance Framework & System Administration](https://www.coursera.org/account/accomplishments/certificate/TELWPDZQGWAJ)
+ - [Cybersecurity Capstone: Breach Response Case Studies](https://www.coursera.org/account/accomplishments/certificate/NJ24VB2L5L4J)
+
+
+
+https://www.coursera.org/accomplishments?specializationAccomplishmentsCurrentPage=5
