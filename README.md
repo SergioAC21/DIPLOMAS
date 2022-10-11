@@ -79,6 +79,14 @@
  - [Sistemática de Comércio Exterior](https://www.coursera.org/account/accomplishments/certificate/TF9ZRMRVZ5B6)
  - [Relações Internacionais](https://www.coursera.org/account/accomplishments/certificate/CQWZMTRGJF2L)
 
+
+[UNAM - Evaluación educativa](https://www.coursera.org/account/accomplishments/specialization/7NBB65B29ULD)
+ 
+ - [Evaluación del y para el aprendizaje en educación universitaria](https://www.coursera.org/account/accomplishments/certificate/PRCPVMXUKK4Y)
+ - [Evaluación del y para el aprendizaje: enfoque cuantitativo](https://www.coursera.org/account/accomplishments/certificate/N9FDFL5FU9DY)
+ - [Evaluación del y para el aprendizaje: enfoque cualitativo](https://www.coursera.org/account/accomplishments/certificate/BRL4F5MCDM7J)
+ - [Proyecto final: Evaluación del y para el aprendizaje](https://www.coursera.org/account/accomplishments/certificate/XHTW2MELYLB3)
+
 **Certificados Profesionales:**
 
 [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/T3BXQL63WULG)
@@ -156,3 +164,17 @@
  - [Follow a Machine Learning Workflow](https://www.coursera.org/account/accomplishments/certificate/5NZ2NNDZ73VT)
  - [Build Regression, Classification, and Clustering Models](https://www.coursera.org/account/accomplishments/certificate/UW4BBG5T8N3W)
  - [Preparing for Your CertNexus Certification Exam](https://www.coursera.org/account/accomplishments/certificate/S3VPKGYSKVDG)
+
+
+ [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/3ZPV5MHKP35Z)
+
+ - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/SY9BUMGG96V5)
+ - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/HJLFYK5GLUUT)
+ - [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/6NHPRAEMKE82)
+ - [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/4R8NQ3YY3S3H)
+ - [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/NAZZRSXLLZD7)
+ - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/V4RRZX8ZYNEV)
+ - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/NLEWTRL9DJ4C)
+ - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/LVXNS4FX7GUL)
+ - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/EFZVQFKZWV67)
+ - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/2FPL6FVANSQW)
