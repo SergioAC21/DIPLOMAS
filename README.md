@@ -1,13 +1,8 @@
-# Coursera Certificates
-## Crash course on python [Course 1 of 6 in the Google IT Automation with Python Specialization
+# Certificados y Diplomas
 
-**To Access the Course:** 
+
+## Coursera
+
+**Especializaciones:** 
 
 [Information Technology (IT) and Cloud Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/7Q4WDZRGHJ6Z)
-
-
-**WHAT YOU WILL LEARN**
-
-## About This Course
-
-## Applied Learning Project
