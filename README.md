@@ -25,6 +25,13 @@
  - [Introduction to Cybersecurity Essentials](https://www.coursera.org/account/accomplishments/certificate/L6A89LAUA86T)
 
 
+[Universidad de Stanford - Food Sustainability, Mindful Eating, and Healthy Cooking​](https://www.coursera.org/account/accomplishments/specialization/ZG6T3M65LML9)
+ 
+ - [Rebuilding Our Relationship with Food](https://www.coursera.org/account/accomplishments/certificate/JS4LS5RRAP8D)
+ - [Introduction to Food and Our Environment](https://www.coursera.org/account/accomplishments/certificate/77YFLF33G4P7)
+ - [Cooking for Busy Healthy People](https://www.coursera.org/account/accomplishments/certificate/G5NXAL2YPNMF)
+
+
 [Tecnologico de Monterrey - Marketing con Redes Sociales](https://www.coursera.org/account/accomplishments/specialization/SX66PCBSX92R)
  
  - [Introduccion a las redes sociales. Sus objetivos y metricas.](https://www.coursera.org/account/accomplishments/certificate/MF72GEG7WLSN)
@@ -39,6 +46,20 @@
  - [Penetration Testing, Incident Response and Forensics](https://www.coursera.org/account/accomplishments/certificate/W2SJJU5C9SZV)
  - [Cyber Threat Intelligence](https://www.coursera.org/account/accomplishments/certificate/A7W2ABKL79S8)
  - [Cybersecurity Capstone: Breach Response Case Studies](https://www.coursera.org/account/accomplishments/certificate/NJ24VB2L5L4J)
+
+
+[Universidad de los Andes - Ciencia de datos​](https://www.coursera.org/account/accomplishments/specialization/4WUMTLZU2XW6)
+ 
+ - [Introducción a la ciencia de datos aplicada](https://www.coursera.org/account/accomplishments/certificate/LPC9RRKQAHQJ)
+ - [Modelos predictivos con aprendizaje automáticos](https://www.coursera.org/account/accomplishments/certificate/U6U4HG7J6GP8)
+ - [Integración y preparación de datos](https://www.coursera.org/account/accomplishments/certificate/96F5CWPV45RY)
+
+
+[Universidad de los Andes - Ciberseguridad​](https://www.coursera.org/account/accomplishments/specialization/H57JSG5GE7M5)
+ 
+ - [Principios y Regulaciones de Seguridad de la Información](https://www.coursera.org/account/accomplishments/certificate/JLK9YW33JD9Q)
+ - [Vulnerabilidades y pruebas de penetración](https://www.coursera.org/account/accomplishments/certificate/HT2PBFZHQ5YM)
+ - [Seguridad en la red](https://www.coursera.org/account/accomplishments/certificate/T6P9XSRGXP4Y)
 
 
  [Google Cloud - Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
@@ -72,7 +93,14 @@
  - [Web Applications and Command-Line Tools for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/4KFEE27PXB4X)
 
 
- [IBM - AI Foundations for Everyone](https://www.coursera.org/account/accomplishments/specialization/7W22W6KB3WG8)
+[Splunk - Splunk Search Expert](https://www.coursera.org/account/accomplishments/specialization/7W22W6KB3WG8)
+ 
+ - [Splunk Search Expert 101](https://www.coursera.org/account/accomplishments/certificate/WLXGBLBKPSNY)
+ - [Splunk Search Expert 102](https://www.coursera.org/account/accomplishments/certificate/H4YWHUDCK83L)
+ - [Splunk Search Expert 103](https://www.coursera.org/account/accomplishments/certificate/Q8BHAK5X3G59)
+
+
+[IBM - AI Foundations for Everyone](https://www.coursera.org/account/accomplishments/specialization/CWRTSQ3LHUQV)
  
  - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/DASR43WXSDLC)
  - [Getting Started with AI using IBM Watson](https://www.coursera.org/account/accomplishments/certificate/529LMKDQQPDG)
@@ -156,6 +184,17 @@
  - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/certificate/XPSM5752L4KY)
  - [System Administration and IT Infrastructure Services](https://www.coursera.org/account/accomplishments/certificate/NZMXP3HGUXFP)
  - [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/XQNT66S9WNT6)
+
+
+[Google UX Design](https://www.coursera.org/account/accomplishments/professional-cert/7KDCTAG9764X)
+
+ - [Create High-Fidelity Designs and Prototypes in Figma](https://www.coursera.org/account/accomplishments/certificate/8J63ZEXXHGDW)
+ - [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/certificate/5CHV6CU4AQY3)
+ - [Conduct UX Research and Test Early Concepts](https://www.coursera.org/account/accomplishments/certificate/W4ZEKBS27TY7)
+ - [Design a User Experience for Social Good & Prepare for Jobs](https://www.coursera.org/account/accomplishments/certificate/FCM9LW7F4653)
+ - [Start the UX Design Process: Empathize, Define, and Ideate](https://www.coursera.org/account/accomplishments/certificate/5FAPKHLV9ZAS)
+ - [Build Wireframes and Low-Fidelity Prototypes](https://www.coursera.org/account/accomplishments/certificate/L5TWFW28FVSL)
+ - [Responsive Web Design in Adobe XD](https://www.coursera.org/account/accomplishments/certificate/NJ7YY3MLLYYB)
 
 
  [Meta Social Media Marketing](https://www.coursera.org/account/accomplishments/professional-cert/FJK2K9DGQE4A)
@@ -243,6 +282,21 @@
  - [Finalize a Data Science Project](https://www.coursera.org/account/accomplishments/certificate/K7SJ6LVSQFDG)
  - [Train Machine Learning Models](https://www.coursera.org/account/accomplishments/certificate/NVRPNE4XTAWE)
  - [Address Business Issues with Data Science](https://www.coursera.org/account/accomplishments/certificate/8Z6F7S6NGCFY)
+
+
+ [SAS Statistical Business Analyst](https://www.coursera.org/account/accomplishments/professional-cert/LP9EC42CPFFX)
+
+ - [Introduction to Statistical Analysis: Hypothesis Testing](https://www.coursera.org/account/accomplishments/certificate/LNQJ9CTS89WY)
+ - [Regression Modeling Fundamentals](https://www.coursera.org/account/accomplishments/certificate/ERB6DHBWZRK6)
+ - [Predictive Modeling with Logistic Regression using SAS](https://www.coursera.org/account/accomplishments/certificate/WVR4SFK9HHB5)
+
+
+ [Google Cloud Digital Leader Training](https://www.coursera.org/account/accomplishments/professional-cert/NJ5BPNGVH2YS)
+
+ - [Introduction to Digital Transformation with Google Cloud](https://www.coursera.org/account/accomplishments/certificate/PRTAQ7FLPNDD)
+ - [Innovating with Data and Google Cloud](https://www.coursera.org/account/accomplishments/certificate/5GB5GC55AMZS)
+ - [Infrastructure and Application Modernization with Google Cloud](https://www.coursera.org/account/accomplishments/certificate/MMM9RWTXPTHK)
+ - [Understanding Google Cloud Security and Operations](https://www.coursera.org/account/accomplishments/certificate/6V9EL297QQN2)
 
 
  [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/3ZPV5MHKP35Z)
