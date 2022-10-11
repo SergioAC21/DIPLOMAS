@@ -25,14 +25,14 @@
  - [Marketing en Redes Sociales Proyecto Final](https://www.coursera.org/account/accomplishments/certificate/48H8PDCEYNEM)
 
 
-[Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
+[Google Cloud - Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
  
  - [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/account/accomplishments/certificate/5Q5RTSC3ZZLK)
  - [Using Machine Learning in Trading and Finance](https://www.coursera.org/account/accomplishments/certificate/ZFYFNEKUVMZ3)
  - [Reinforcement Learning for Trading Strategies](https://www.coursera.org/account/accomplishments/certificate/WQ2N5HF28UM8)
 
 
-[Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
+[IBM - Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
  
  - [Python and Pandas for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/DMP5VQM4SH4Q)
  - [Linux and Bash for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/WVM8N3FP22UF)
@@ -40,7 +40,7 @@
  - [Web Applications and Command-Line Tools for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/4KFEE27PXB4X)
 
 
-[Lean Six Sigma](https://www.coursera.org/account/accomplishments/specialization/certificate/6ZDWY94TV59C)
+[Tecnologico de Monterrey - Lean Six Sigma](https://www.coursera.org/account/accomplishments/specialization/certificate/6ZDWY94TV59C)
  
  - [Introducción a Lean Six Sigma](https://www.coursera.org/account/accomplishments/certificate/NR7LJSLDX7C6)
  - [Definición y Medición](https://www.coursera.org/account/accomplishments/certificate/AJHCFZ8G4KRN)
