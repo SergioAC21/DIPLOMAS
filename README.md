@@ -7,6 +7,15 @@
 
 **Especializaciones:** 
 
+
+[Universidad de Minnesota - Human Resource Management: HR for People Managers](https://www.coursera.org/account/accomplishments/specialization/CDUDNT56YQ3E)
+ 
+ - [Managing Employee Compensation](https://www.coursera.org/account/accomplishments/certificate/YQ5HE64K6TUB)
+ - [Preparing to Manage Human Resources](https://www.coursera.org/account/accomplishments/certificate/XZQ985PCW8C9)
+ - [Recruiting, Hiring, and Onboarding Employees](https://www.coursera.org/account/accomplishments/certificate/56PBZM5RT2DE)
+ - [Human Resources Management Capstone: HR for People Managers](https://www.coursera.org/account/accomplishments/certificate/RQHDNPGVHLN4)
+ - [Managing Employee Performance](https://www.coursera.org/account/accomplishments/certificate/RHDVFU9PJWND)
+
 [IBM - Information Technology (IT) and Cloud Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/7Q4WDZRGHJ6Z)
 
  - [Introduction to Hardware and Operating Systems](https://www.coursera.org/account/accomplishments/certificate/48P622XT88SQ)
@@ -54,6 +63,13 @@
  - [Linux and Bash for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/WVM8N3FP22UF)
  - [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/A8PFD27TK2PR)
  - [Web Applications and Command-Line Tools for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/4KFEE27PXB4X)
+
+
+ [IBM - AI Foundations for Everyone](https://www.coursera.org/account/accomplishments/specialization/7W22W6KB3WG8)
+ 
+ - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/DASR43WXSDLC)
+ - [Getting Started with AI using IBM Watson](https://www.coursera.org/account/accomplishments/certificate/529LMKDQQPDG)
+ - [Building AI Powered Chatbots Without Programming](https://www.coursera.org/account/accomplishments/certificate/MZTKUFMCHNFA)
 
 
 [IBM - IBM & Darden Digital Strategy](https://www.coursera.org/account/accomplishments/specialization/ZUBD39WHAWTU)
@@ -199,6 +215,15 @@
  - [Follow a Machine Learning Workflow](https://www.coursera.org/account/accomplishments/certificate/5NZ2NNDZ73VT)
  - [Build Regression, Classification, and Clustering Models](https://www.coursera.org/account/accomplishments/certificate/UW4BBG5T8N3W)
  - [Preparing for Your CertNexus Certification Exam](https://www.coursera.org/account/accomplishments/certificate/S3VPKGYSKVDG)
+
+
+ [CertNexus Certified Data Science Practitioner](https://www.coursera.org/account/accomplishments/professional-cert/YES5NXAMLN2J)
+
+ - [Extract, Transform, and Load Data](https://www.coursera.org/account/accomplishments/certificate/5J3F8FMQQZR8)
+ - [Analyze Data](https://www.coursera.org/account/accomplishments/certificate/J9VRRLV7FSKA)
+ - [Finalize a Data Science Project](https://www.coursera.org/account/accomplishments/certificate/K7SJ6LVSQFDG)
+ - [Train Machine Learning Models](https://www.coursera.org/account/accomplishments/certificate/NVRPNE4XTAWE)
+ - [Address Business Issues with Data Science](https://www.coursera.org/account/accomplishments/certificate/8Z6F7S6NGCFY)
 
 
  [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/3ZPV5MHKP35Z)
