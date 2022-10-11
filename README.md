@@ -34,7 +34,14 @@
  - [Marketing en Redes Sociales Proyecto Final](https://www.coursera.org/account/accomplishments/certificate/48H8PDCEYNEM)
 
 
-[Google Cloud - Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
+[IBM - Security Analyst Fundamentals](https://www.coursera.org/account/accomplishments/specialization/5AM5LWBPDTJP)
+ 
+ - [Penetration Testing, Incident Response and Forensics](https://www.coursera.org/account/accomplishments/certificate/W2SJJU5C9SZV)
+ - [Cyber Threat Intelligence](https://www.coursera.org/account/accomplishments/certificate/A7W2ABKL79S8)
+ - [Cybersecurity Capstone: Breach Response Case Studies](https://www.coursera.org/account/accomplishments/certificate/NJ24VB2L5L4J)
+
+
+ [Google Cloud - Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
  
  - [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/account/accomplishments/certificate/5Q5RTSC3ZZLK)
  - [Using Machine Learning in Trading and Finance](https://www.coursera.org/account/accomplishments/certificate/ZFYFNEKUVMZ3)
@@ -149,6 +156,17 @@
  - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/certificate/XPSM5752L4KY)
  - [System Administration and IT Infrastructure Services](https://www.coursera.org/account/accomplishments/certificate/NZMXP3HGUXFP)
  - [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/XQNT66S9WNT6)
+
+
+ [Meta Social Media Marketing](https://www.coursera.org/account/accomplishments/professional-cert/FJK2K9DGQE4A)
+
+ - [Social Media Management](https://www.coursera.org/account/accomplishments/certificate/VAM8QHURPP4L)
+ - [Measure and Optimize Social Media Marketing Campaigns](https://www.coursera.org/account/accomplishments/certificate/ML4JXDKVMMND)
+ - [Fundamentals of Social Media Advertising](https://www.coursera.org/account/accomplishments/certificate/2A3KD9PTRYAD)
+ - [Advertising with Meta](https://www.coursera.org/account/accomplishments/certificate/D9EL96E49QVH)
+ - [Meta Social Media Marketing Capstone](https://www.coursera.org/account/accomplishments/certificate/DECMPTTVKP22)
+ - [Introduction to Social Media Marketing](https://www.coursera.org/account/accomplishments/certificate/J8BBRCTZZHNA)
+
  
 [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/9KQ9VLREB8B3)
 
@@ -159,6 +177,7 @@
  - [Assess for Success: Marketing Analytics and Measurement](https://www.coursera.org/account/accomplishments/certificate/5QKW8DRFG7Y6)
  - [Building Deep Learning Models with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/K9EGRN4NK3BJ)
  - [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/NQ6JTUBKUSWR)
+ 
 
 [IBM Technical Support](https://www.coursera.org/account/accomplishments/specialization/certificate/N9C72246C7EC)
 
