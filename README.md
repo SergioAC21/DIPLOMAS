@@ -26,7 +26,10 @@
 
 [Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
  
- - [Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
+ - [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/account/accomplishments/certificate/5Q5RTSC3ZZLK)
+ - [Using Machine Learning in Trading and Finance](https://www.coursera.org/account/accomplishments/certificate/ZFYFNEKUVMZ3)
+ - [Reinforcement Learning for Trading Strategies](https://www.coursera.org/account/accomplishments/certificate/WQ2N5HF28UM8)
+
 
 [Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
  
