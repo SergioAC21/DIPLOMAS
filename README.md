@@ -63,6 +63,22 @@
  - [Assessment for Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/certificate/A3A5QSRWWXNR)
 
 
+[IBM - Applied Data Science](https://www.coursera.org/account/accomplishments/specialization/VNUXH9MY48ET)
+ 
+ - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/HJLFYK5GLUUT)
+ - [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/4R8NQ3YY3S3H)
+ - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/V4RRZX8ZYNEV)
+ - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/NLEWTRL9DJ4C)
+ - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/EFZVQFKZWV67)
+
+
+ [FIA - Comércio Internacional](https://www.coursera.org/account/accomplishments/specialization/35WGW5HQK768)
+ 
+ - [Desembaraço Aduaneiro](https://www.coursera.org/account/accomplishments/certificate/GSQSJSCFWNU5)
+ - [Transportes e Logística](https://www.coursera.org/account/accomplishments/certificate/PL4RM6KRPM97)
+ - [Sistemática de Comércio Exterior](https://www.coursera.org/account/accomplishments/certificate/TF9ZRMRVZ5B6)
+ - [Relações Internacionais](https://www.coursera.org/account/accomplishments/certificate/CQWZMTRGJF2L)
+
 **Certificados Profesionales:**
 
 [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/T3BXQL63WULG)
@@ -121,3 +137,22 @@
  - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/LVXNS4FX7GUL)
  - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/EFZVQFKZWV67)
  - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/2FPL6FVANSQW)
+
+
+ [IBM Applied AI](https://www.coursera.org/account/accomplishments/professional-cert/8CBJSZ6BDNZN)
+
+ - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/DASR43WXSDLC)
+ - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/V4RRZX8ZYNEV)
+ - [Getting Started with AI using IBM Watson](https://www.coursera.org/account/accomplishments/certificate/529LMKDQQPDG)
+ - [Building AI Powered Chatbots Without Programming](https://www.coursera.org/account/accomplishments/certificate/MZTKUFMCHNFA)
+ - [Building AI Applications with Watson APIs](https://www.coursera.org/account/accomplishments/certificate/MTQ3EMC7DBRW)
+ - [Python Project for AI & Application Development](https://www.coursera.org/account/accomplishments/certificate/973CR84QDBUV)
+
+
+ [CertNexus Certified Artificial Intelligence Practitioner](https://www.coursera.org/account/accomplishments/professional-cert/WW38YRGEU6CS)
+
+ - [Build Decision Trees, SVMs, and Artificial Neural Networks](https://www.coursera.org/account/accomplishments/certificate/MYNZJ7DLJP5C)
+ - [Solve Business Problems with AI and Machine Learning](https://www.coursera.org/account/accomplishments/certificate/VZZTVEGXQM88)
+ - [Follow a Machine Learning Workflow](https://www.coursera.org/account/accomplishments/certificate/5NZ2NNDZ73VT)
+ - [Build Regression, Classification, and Clustering Models](https://www.coursera.org/account/accomplishments/certificate/UW4BBG5T8N3W)
+ - [Preparing for Your CertNexus Certification Exam](https://www.coursera.org/account/accomplishments/certificate/S3VPKGYSKVDG)
