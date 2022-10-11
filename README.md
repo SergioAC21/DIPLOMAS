@@ -33,7 +33,11 @@
 
 [Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
  
- - [Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
+ - [Python and Pandas for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/DMP5VQM4SH4Q)
+ - [Linux and Bash for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/WVM8N3FP22UF)
+ - [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/A8PFD27TK2PR)
+ - [Web Applications and Command-Line Tools for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/4KFEE27PXB4X)
+
 
 
 **Certificados Profesionales:**
@@ -48,3 +52,4 @@
  - [Make the Sale: Build, Launch, and Manage E-commerce Stores](https://www.coursera.org/account/accomplishments/certificate/Y8XJNM7AMY9J)
  - [Satisfaction Guaranteed: Develop Customer Loyalty Online](https://www.coursera.org/account/accomplishments/certificate/4B6VA8W5THN6)
  
+[IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/9KQ9VLREB8B3)
