@@ -8,7 +8,7 @@
 **Especializaciones:** 
 
 [Information Technology (IT) and Cloud Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/7Q4WDZRGHJ6Z)
- >[Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
+ - [Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
 
 [Marketing con Redes Sociales](https://www.coursera.org/account/accomplishments/specialization/SX66PCBSX92R)
 [Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
