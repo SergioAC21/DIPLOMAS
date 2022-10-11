@@ -69,3 +69,13 @@
  - [Assess for Success: Marketing Analytics and Measurement](https://www.coursera.org/account/accomplishments/certificate/5QKW8DRFG7Y6)
  - [Building Deep Learning Models with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/K9EGRN4NK3BJ)
  - [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/NQ6JTUBKUSWR)
+
+[IBM Technical Support](https://www.coursera.org/account/accomplishments/specialization/certificate/N9C72246C7EC)
+
+ - [Introduction to Technical Support](https://www.coursera.org/account/accomplishments/certificate/6KVEGL38C7GJ)
+ - [Introduction to Hardware and Operating Systems](https://www.coursera.org/account/accomplishments/certificate/48P622XT88SQ)
+ - [Introduction to Software, Programming, and Databases](https://www.coursera.org/account/accomplishments/certificate/QH9U6GPHX8LL)
+ - [Introduction to Networking and Storage](https://www.coursera.org/account/accomplishments/certificate/BPF3SY9H9CNJ)
+ - [Introduction to Cybersecurity Essentials](https://www.coursera.org/account/accomplishments/certificate/L6A89LAUA86T)
+ - [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/certificate/HW3D9HXFF9Q4)
+ - [Technical Support Case Studies and Capstone](https://www.coursera.org/account/accomplishments/certificate/EJV8GWBLCRZR)
