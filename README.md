@@ -32,12 +32,38 @@
  - [Reinforcement Learning for Trading Strategies](https://www.coursera.org/account/accomplishments/certificate/WQ2N5HF28UM8)
 
 
+[Microsoft - Microsoft 365 Fundamentals](https://www.coursera.org/account/accomplishments/specialization/P999XLHBP8GX)
+ 
+ - [Work Smarter with Microsoft Word](https://www.coursera.org/account/accomplishments/certificate/MXLMBUK8DAUN)
+ - [Work Smarter with Microsoft Excel](https://www.coursera.org/account/accomplishments/certificate/3XTY8JS27YXU)
+ - [Work Smarter with Microsoft PowerPoint](https://www.coursera.org/account/accomplishments/certificate/P68MQNV5EHJ8)
+
+
+[UCI - Project Management & Other Tools for Career Development](https://www.coursera.org/account/accomplishments/specialization/5WQFECFQ5MLJ)
+ 
+ - [High-Impact Business Writing](https://www.coursera.org/account/accomplishments/certificate/293NVCC8WARG)
+ - [Managing Project Risks and Changes](https://www.coursera.org/account/accomplishments/certificate/A7TDCEUDDEHK)
+ - [Effective Problem-Solving and Decision-Making](https://www.coursera.org/account/accomplishments/certificate/LGHUXEU3E8M3)
+ - [The Art of Negotiation](https://www.coursera.org/account/accomplishments/certificate/APG82CNGSLUY)
+ - [Initiating and Planning Projects](https://www.coursera.org/account/accomplishments/certificate/4WUEDCUYZ86T)
+
+
 [IBM - Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
  
  - [Python and Pandas for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/DMP5VQM4SH4Q)
  - [Linux and Bash for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/WVM8N3FP22UF)
  - [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/A8PFD27TK2PR)
  - [Web Applications and Command-Line Tools for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/4KFEE27PXB4X)
+
+
+[IBM - IBM & Darden Digital Strategy](https://www.coursera.org/account/accomplishments/specialization/ZUBD39WHAWTU)
+ 
+ - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/DASR43WXSDLC)
+ - [Introduction to Digital Transformation Part 1](https://www.coursera.org/account/accomplishments/certificate/2YMNKDZUJ6QQ)
+ - [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/certificate/HW3D9HXFF9Q4)
+ - [The Strategist's Challenge](https://www.coursera.org/account/accomplishments/certificate/UALNZWJ8PEYD)
+ - [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/Q3CBYQE4B7BV)
+ - [Introduction to Digital Transformation Part 2](https://www.coursera.org/account/accomplishments/certificate/JSXCB74HBG7G)
 
 
 [Tecnologico de Monterrey - Lean Six Sigma](https://www.coursera.org/account/accomplishments/specialization/certificate/6ZDWY94TV59C)
@@ -98,6 +124,15 @@
  - [Assess for Success: Marketing Analytics and Measurement](https://www.coursera.org/account/accomplishments/certificate/5QKW8DRFG7Y6)
  - [Make the Sale: Build, Launch, and Manage E-commerce Stores](https://www.coursera.org/account/accomplishments/certificate/Y8XJNM7AMY9J)
  - [Satisfaction Guaranteed: Develop Customer Loyalty Online](https://www.coursera.org/account/accomplishments/certificate/4B6VA8W5THN6)
+
+
+[Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/JBA6QEUNCA2X)
+
+ - [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/WDW46B74Y7MN)
+ - [IT Security: Defense against the digital dark arts](https://www.coursera.org/account/accomplishments/certificate/W4TPCVMY9BGD)
+ - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/certificate/XPSM5752L4KY)
+ - [System Administration and IT Infrastructure Services](https://www.coursera.org/account/accomplishments/certificate/NZMXP3HGUXFP)
+ - [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/XQNT66S9WNT6)
  
 [IBM AI Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/9KQ9VLREB8B3)
 
