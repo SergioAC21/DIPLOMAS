@@ -24,6 +24,7 @@
  - [Las redes sociales en accion](https://www.coursera.org/account/accomplishments/certificate/3ZVGQQFSRFWQ)
  - [Marketing en Redes Sociales Proyecto Final](https://www.coursera.org/account/accomplishments/certificate/48H8PDCEYNEM)
 
+
 [Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
  
  - [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/account/accomplishments/certificate/5Q5RTSC3ZZLK)
@@ -38,6 +39,13 @@
  - [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/A8PFD27TK2PR)
  - [Web Applications and Command-Line Tools for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/4KFEE27PXB4X)
 
+
+[Lean Six Sigma](https://www.coursera.org/account/accomplishments/specialization/certificate/6ZDWY94TV59C)
+ 
+ - [Introducción a Lean Six Sigma](https://www.coursera.org/account/accomplishments/certificate/NR7LJSLDX7C6)
+ - [Definición y Medición](https://www.coursera.org/account/accomplishments/certificate/AJHCFZ8G4KRN)
+ - [Analizar e incrementar - Parte 1](https://www.coursera.org/account/accomplishments/certificate/777AXZ5P9GUM)
+ - [Incrementar - Parte 2 y Controlar](https://www.coursera.org/account/accomplishments/certificate/PUDDE822BZE6)
 
 
 **Certificados Profesionales:**
