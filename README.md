@@ -55,6 +55,14 @@
  - [Data Platform, Cloud Networking and AI in the Cloud](https://www.coursera.org/account/accomplishments/certificate/BCSCBAU7WCRD)
 
 
+[IBM - Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/specialization/W25J69DQ8WFJ)
+ 
+ - [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/Q3CBYQE4B7BV)
+ - [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/V4G6RV48LP8F)
+ - [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/certificate/TBE3YBR88U9P)
+ - [Assessment for Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/certificate/A3A5QSRWWXNR)
+
+
 **Certificados Profesionales:**
 
 [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/T3BXQL63WULG)
@@ -86,3 +94,30 @@
  - [Introduction to Cybersecurity Essentials](https://www.coursera.org/account/accomplishments/certificate/L6A89LAUA86T)
  - [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/certificate/HW3D9HXFF9Q4)
  - [Technical Support Case Studies and Capstone](https://www.coursera.org/account/accomplishments/certificate/EJV8GWBLCRZR)
+
+
+ [IBM Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/TGLVQBY5Q7PY)
+
+ - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/SY9BUMGG96V5)
+ - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/HJLFYK5GLUUT)
+ - [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/certificate/TBE3YBR88U9P)
+ - [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/V4G6RV48LP8F)
+ - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/V4RRZX8ZYNEV)
+ - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/NLEWTRL9DJ4C)
+ - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/EFZVQFKZWV67)
+ - [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/Q3CBYQE4B7BV)
+ - [IBM Data Analyst Capstone Project](https://www.coursera.org/account/accomplishments/certificate/C8PVJZEFGLEW)
+
+
+ [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/29HM5V79PL38)
+
+ - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/SY9BUMGG96V5)
+ - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/HJLFYK5GLUUT)
+ - [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/6NHPRAEMKE82)
+ - [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/4R8NQ3YY3S3H)
+ - [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/NAZZRSXLLZD7)
+ - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/V4RRZX8ZYNEV)
+ - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/NLEWTRL9DJ4C)
+ - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/LVXNS4FX7GUL)
+ - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/EFZVQFKZWV67)
+ - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/2FPL6FVANSQW)
