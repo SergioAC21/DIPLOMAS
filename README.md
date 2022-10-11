@@ -16,15 +16,20 @@
  - [Introduction to Cybersecurity Essentials](https://www.coursera.org/account/accomplishments/certificate/L6A89LAUA86T)
 
 
-[Marketing con Redes Sociales](https://www.coursera.org/account/accomplishments/specialization/SX66PCBSX92R)
- - [Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
+[Tecnologico de Monterrey - Marketing con Redes Sociales](https://www.coursera.org/account/accomplishments/specialization/SX66PCBSX92R)
  
-
+ - [Introduccion a las redes sociales. Sus objetivos y metricas.](https://www.coursera.org/account/accomplishments/certificate/MF72GEG7WLSN)
+ - [Beneficios y caracteristicas de las redes sociales mas significativas](https://www.coursera.org/account/accomplishments/certificate/W8LBT6ZGB742)
+ - [Requerimientos, planeacion, ejecucion y medicion de estrategias para redes sociales](https://www.coursera.org/account/accomplishments/certificate/DDNH9JG59VRV) 
+ - [Las redes sociales en accion](https://www.coursera.org/account/accomplishments/certificate/3ZVGQQFSRFWQ)
+ - [Marketing en Redes Sociales Proyecto Final](https://www.coursera.org/account/accomplishments/certificate/48H8PDCEYNEM)
 
 [Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/4HUYSNLG3HZZ)
+ 
  - [Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
 
 [Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
+ 
  - [Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
 
 
