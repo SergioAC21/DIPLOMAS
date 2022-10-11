@@ -48,6 +48,13 @@
  - [Incrementar - Parte 2 y Controlar](https://www.coursera.org/account/accomplishments/certificate/PUDDE822BZE6)
 
 
+[Intel - Intel Cloud Fundamentals](https://www.coursera.org/account/accomplishments/specialization/9RNZYUSSX58C)
+ 
+ - [Cloud Essentials & Usage](https://www.coursera.org/account/accomplishments/certificate/NLEHJCBHUF5P)
+ - [Cloud Technologies & Services](https://www.coursera.org/account/accomplishments/certificate/QVY43BT6SPZJ)
+ - [Data Platform, Cloud Networking and AI in the Cloud](https://www.coursera.org/account/accomplishments/certificate/BCSCBAU7WCRD)
+
+
 **Certificados Profesionales:**
 
 [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/T3BXQL63WULG)
