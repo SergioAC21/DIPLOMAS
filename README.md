@@ -7,8 +7,8 @@
 
 **Especializaciones:** 
 
-[IBM][Information Technology (IT) and Cloud Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/7Q4WDZRGHJ6Z)
- - [Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
+[IBM - Information Technology (IT) and Cloud Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/7Q4WDZRGHJ6Z)
+ - [Introduction to Hardware and Operating Systems](https://www.coursera.org/account/accomplishments/certificate/48P622XT88SQ)
  - [Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
  - [Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
  - [Subcurso](https://www.coursera.org/account/accomplishments/specialization/UQCAXD7BU23B)
